@@ -44,6 +44,7 @@ import java.util.List;
 
 /**
  * 电话号码的字母组合
+ *
  * @author lww
  * @since 2024-11-21 11:04:07
  */
@@ -51,15 +52,16 @@ public class LetterCombinationsOfAPhoneNumber {
     public static void main(String[] args) {
         Solution solution = new LetterCombinationsOfAPhoneNumber().new Solution();
     }
-     /**
+
+    /**
      * Solution
      */
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public List<String> letterCombinations(String digits) {
-        return null;
+    class Solution {
+        public List<String> letterCombinations(String digits) {
+            return null;
+        }
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
